@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>background.jpg</file>
+        <file>dancer_with_music.png</file>
+        <file>musical.png</file>
+        <file>next.ico</file>
+        <file>open_file.ico</file>
+        <file>pause.ico</file>
+        <file>play.ico</file>
+        <file>previous.ico</file>
+        <file>slide.png</file>
+        <file>volume.png</file>
+        <file>volume_up.png</file>
+        <file>volume_mute.png</file>
+    </qresource>
+</RCC>
